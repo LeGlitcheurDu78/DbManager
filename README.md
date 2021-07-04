@@ -1,6 +1,7 @@
 Bonjour à tous et à toutes.
 J'ai créer une library pour gérer vos Db. 
 Pour l'utiliser dans le builg.gradle de votre app ajouter ce code :
+
 <code>
 allprojects {
 	repositories {
@@ -8,6 +9,8 @@ allprojects {
 	}
 }
 </code>
+
+
 Puis celui-ci :
 <code>
 dependencies {
